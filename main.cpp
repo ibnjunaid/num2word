@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include <num2words/concised/printNum.hpp>
+#include "printNum.hpp"
 
 // g++ runs 3 things in sequence
 //  1. it runs preprocessor (-E), which expands the preprocessor statements, such as #include, #define etc.
